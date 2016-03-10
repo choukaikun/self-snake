@@ -25,4 +25,3 @@ print("list two times: ", tinylist * 2)
 
 # To print the lists concatenated
 print("concatenated lists: ", my_list + tinylist)
-
