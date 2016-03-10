@@ -1,4 +1,5 @@
 # self-snake
 Learning Python Area
 
-Added helloworld.py
+# 3/7 - Added helloworld.py
+# 3/9 - Added assign_variables.py
