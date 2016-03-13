@@ -6,5 +6,7 @@ Learning Python Area
 + 3/9 - Added strings.py
 + 3/9 - Added lists.py
 + 3/9 - Added sets_and_dictionaries.py
-+ 3/9 - Made Chapter 01 dir and moved files
++ 3/9 - Made Chapter01 dir and moved files
++ 3/10 - Moved Chapter01 dir to Course 01
+       - Added Course 02 dir
 
